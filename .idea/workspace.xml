@@ -2,10 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="256ace50-4360-4007-8185-2febdb999e95" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/oop/000.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python_Basic_Grammar/10. Python基础-07-内建结构.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Python_Basic_Grammar/10. Python基础-07-内建结构.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python_Basic_Grammar/5. Python基础-02-字符串+变量.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Python_Basic_Grammar/5. Python基础-02-字符串+变量.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/oop/note.md" beforeDir="false" afterPath="$PROJECT_DIR$/oop/13. Python基础-oop基础.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/oop/111.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -32,12 +30,8 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/oop/000.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret column="14" lean-forward="true" selection-start-column="14" selection-end-column="14" />
-            </state>
-          </provider>
+        <entry file="file://$PROJECT_DIR$/oop/111.py">
+          <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
     </leaf>
@@ -62,6 +56,7 @@
         <option value="$PROJECT_DIR$/oop/13. Python基础-oop基础.md" />
         <option value="$PROJECT_DIR$/Python_Basic_Grammar/5. Python基础-02-字符串+变量.ipynb" />
         <option value="$PROJECT_DIR$/oop/000.py" />
+        <option value="$PROJECT_DIR$/oop/111.py" />
       </list>
     </option>
   </component>
@@ -176,23 +171,22 @@
       <updated>1546609230934</updated>
       <workItem from="1546609234817" duration="1786000" />
       <workItem from="1546611059766" duration="2064000" />
-      <workItem from="1546614713236" duration="39000" />
+      <workItem from="1546614713236" duration="938000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="3889000" />
+    <option name="totallyTimeSpent" value="4788000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1295" height="695" extended-state="6" />
-    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.31123686" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.12045271" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.3285968" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.3285968" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -231,6 +225,13 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/oop/000.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="14" lean-forward="true" selection-start-column="14" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/oop/13. Python基础-oop基础.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
@@ -241,12 +242,8 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/oop/000.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="14" lean-forward="true" selection-start-column="14" selection-end-column="14" />
-        </state>
-      </provider>
+    <entry file="file://$PROJECT_DIR$/oop/111.py">
+      <provider selected="true" editor-type-id="text-editor" />
     </entry>
   </component>
 </project>
