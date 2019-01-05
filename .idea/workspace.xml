@@ -2,6 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="256ace50-4360-4007-8185-2febdb999e95" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/oop/01.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/TLXY_study_note.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/TLXY_study_note.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/oop/13. Python基础-oop基础.md" beforeDir="false" afterPath="$PROJECT_DIR$/oop/13. Python基础-oop基础.md" afterDir="false" />
     </list>
@@ -20,14 +22,23 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/oop/13. Python基础-oop基础.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="468">
-                <caret line="26" lean-forward="true" selection-start-line="26" selection-end-line="26" />
+              <first_editor relative-caret-position="402">
+                <caret line="41" column="9" selection-start-line="41" selection-start-column="9" selection-end-line="41" selection-end-column="9" />
               </first_editor>
               <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/oop/01.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="44">
+              <caret line="2" lean-forward="true" selection-start-line="2" selection-end-line="2" />
             </state>
           </provider>
         </entry>
@@ -54,6 +65,7 @@
         <option value="$PROJECT_DIR$/Python_Basic_Grammar/5. Python基础-02-字符串+变量.ipynb" />
         <option value="$PROJECT_DIR$/oop/000.py" />
         <option value="$PROJECT_DIR$/oop/111.py" />
+        <option value="$PROJECT_DIR$/oop/01.py" />
         <option value="$PROJECT_DIR$/oop/13. Python基础-oop基础.md" />
       </list>
     </option>
@@ -80,11 +92,6 @@
               <item name="TLXY_study_note" type="b2602c69:ProjectViewProjectNode" />
               <item name="TLXY_study_note" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="TLXY_study_note" type="b2602c69:ProjectViewProjectNode" />
-              <item name="TLXY_study_note" type="462c0819:PsiDirectoryNode" />
-              <item name="oop" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
@@ -96,7 +103,7 @@
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
-    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -170,19 +177,19 @@
       <workItem from="1546609234817" duration="1786000" />
       <workItem from="1546611059766" duration="2064000" />
       <workItem from="1546614713236" duration="1500000" />
-      <workItem from="1546661366721" duration="718000" />
+      <workItem from="1546661366721" duration="2453000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="6068000" />
+    <option name="totallyTimeSpent" value="7803000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1295" height="695" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.4991119" visible="true" weight="0.13823767" />
-      <window_info active="true" id="Structure" order="1" sideWeight="0.5008881" side_tool="true" visible="true" weight="0.13823767" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.4991119" visible="true" weight="0.13823767" />
+      <window_info id="Structure" order="1" sideWeight="0.5008881" side_tool="true" visible="true" weight="0.13823767" />
       <window_info id="Favorites" order="2" sideWeight="0.5008881" side_tool="true" weight="0.12206952" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
@@ -230,10 +237,17 @@
     <entry file="file://$PROJECT_DIR$/oop/13. Python基础-oop基础.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="468">
-            <caret line="26" lean-forward="true" selection-start-line="26" selection-end-line="26" />
+          <first_editor relative-caret-position="402">
+            <caret line="41" column="9" selection-start-line="41" selection-start-column="9" selection-end-line="41" selection-end-column="9" />
           </first_editor>
           <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/oop/01.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="44">
+          <caret line="2" lean-forward="true" selection-start-line="2" selection-end-line="2" />
         </state>
       </provider>
     </entry>
