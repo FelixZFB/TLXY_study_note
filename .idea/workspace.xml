@@ -2,12 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="256ace50-4360-4007-8185-2febdb999e95" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Package_Module/19_2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python_High_Level_Syntax/23. Python高级语法-函数式编程.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python_High_Level_Syntax/23_1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python_High_Level_Syntax/23_2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python_High_Level_Syntax/23_3.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Package_Module/19. Python基础-包-模块.md" beforeDir="false" afterPath="$PROJECT_DIR$/Package_Module/19. Python基础-包-模块.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Package_Module/19_1.py" beforeDir="false" afterPath="$PROJECT_DIR$/Package_Module/19_1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python_High_Level_Syntax/23. Python高级语法-函数式编程.md" beforeDir="false" afterPath="$PROJECT_DIR$/Python_High_Level_Syntax/23. Python高级语法-函数式编程.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python_High_Level_Syntax/23_1.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python_High_Level_Syntax/23_1.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -18,12 +17,14 @@
   <component name="CoverageDataManager">
     <SUITE FILE_PATH="coverage/TLXY_study_note$13_4.coverage" NAME="13_4 Coverage Results" MODIFIED="1546781066454" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/oop" />
     <SUITE FILE_PATH="coverage/TLXY_study_note$19_1.coverage" NAME="19_1 Coverage Results" MODIFIED="1546939086354" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Package_Module" />
+    <SUITE FILE_PATH="coverage/TLXY_study_note$23_2.coverage" NAME="23_2 Coverage Results" MODIFIED="1547022104899" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python_High_Level_Syntax" />
     <SUITE FILE_PATH="coverage/TLXY_study_note$13_2.coverage" NAME="13_2 Coverage Results" MODIFIED="1546698103654" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/oop" />
     <SUITE FILE_PATH="coverage/TLXY_study_note$TLXY_study_note.coverage" NAME="TLXY_study_note Coverage Results" MODIFIED="1546613003522" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="" />
     <SUITE FILE_PATH="coverage/TLXY_study_note$000.coverage" NAME="000 Coverage Results" MODIFIED="1546614747270" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/oop" />
     <SUITE FILE_PATH="coverage/TLXY_study_note$19_2.coverage" NAME="19_2 Coverage Results" MODIFIED="1546951946790" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Package_Module" />
+    <SUITE FILE_PATH="coverage/TLXY_study_note$23_3.coverage" NAME="23_3 Coverage Results" MODIFIED="1547022935682" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python_High_Level_Syntax" />
     <SUITE FILE_PATH="coverage/TLXY_study_note$01.coverage" NAME="01 Coverage Results" MODIFIED="1546684754943" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/oop" />
-    <SUITE FILE_PATH="coverage/TLXY_study_note$23_1.coverage" NAME="23_1 Coverage Results" MODIFIED="1546960568513" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python_High_Level_Syntax" />
+    <SUITE FILE_PATH="coverage/TLXY_study_note$23_1.coverage" NAME="23_1 Coverage Results" MODIFIED="1547022320506" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python_High_Level_Syntax" />
     <SUITE FILE_PATH="coverage/TLXY_study_note$13_3.coverage" NAME="13_3 Coverage Results" MODIFIED="1546780090942" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/oop" />
   </component>
   <component name="DatabaseView">
@@ -45,23 +46,23 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Python_High_Level_Syntax/23. Python高级语法-函数式编程.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="FIRST">
-              <first_editor relative-caret-position="259">
-                <caret line="47" column="9" selection-start-line="47" selection-start-column="9" selection-end-line="47" selection-end-column="9" />
+              <first_editor relative-caret-position="255">
+                <caret line="85" column="16" lean-forward="true" selection-start-line="85" selection-start-column="16" selection-end-line="85" selection-end-column="16" />
               </first_editor>
               <second_editor />
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Python_High_Level_Syntax/23_1.py">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Python_High_Level_Syntax/23_3.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="238">
-              <caret line="82" column="12" selection-start-line="82" selection-start-column="12" selection-end-line="82" selection-end-column="12" />
+            <state relative-caret-position="264">
+              <caret line="34" column="13" selection-start-line="34" selection-start-column="13" selection-end-line="34" selection-end-column="13" />
             </state>
           </provider>
         </entry>
@@ -96,16 +97,18 @@
         <option value="$PROJECT_DIR$/Package_Module/19_1.py" />
         <option value="$PROJECT_DIR$/Package_Module/19_2.py" />
         <option value="$PROJECT_DIR$/Package_Module/19. Python基础-包-模块.md" />
-        <option value="$PROJECT_DIR$/Python_High_Level_Syntax/23. Python高级语法-函数式编程.md" />
         <option value="$PROJECT_DIR$/Python_High_Level_Syntax/23_1.py" />
+        <option value="$PROJECT_DIR$/Python_High_Level_Syntax/23_2.py" />
+        <option value="$PROJECT_DIR$/Python_High_Level_Syntax/23_3.py" />
+        <option value="$PROJECT_DIR$/Python_High_Level_Syntax/23. Python高级语法-函数式编程.md" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="634" />
+    <option name="x" value="567" />
     <option name="y" value="6" />
     <option name="width" value="1314" />
-    <option name="height" value="1007" />
+    <option name="height" value="1008" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
@@ -157,7 +160,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.23_1">
+  <component name="RunManager" selected="Python.23_3">
     <configuration name="TLXY_study_note" type="JupiterNotebook" factoryName="Jupyter Notebook">
       <module name="TLXY_study_note" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -176,28 +179,6 @@
       <option name="ipnbPort" value="8888" />
       <method v="2" />
     </configuration>
-    <configuration name="13_2" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="TLXY_study_note" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/oop" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/oop/13_2.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
     <configuration name="13_3" type="PythonConfigurationType" factoryName="Python">
       <module name="TLXY_study_note" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -212,28 +193,6 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/oop/13_3.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="13_4" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="TLXY_study_note" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/oop" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/oop/13_4.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -308,13 +267,57 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="23_2" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="TLXY_study_note" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Python_High_Level_Syntax" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Python_High_Level_Syntax/23_2.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="23_3" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="TLXY_study_note" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Python_High_Level_Syntax" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Python_High_Level_Syntax/23_3.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.23_3" />
         <item itemvalue="Python.23_1" />
+        <item itemvalue="Python.23_2" />
         <item itemvalue="Python.19_2" />
         <item itemvalue="Python.19_1" />
-        <item itemvalue="Python.13_4" />
-        <item itemvalue="Python.13_2" />
       </list>
     </recent_temporary>
   </component>
@@ -342,7 +345,9 @@
       <workItem from="1546849993438" duration="767000" />
       <workItem from="1546865453944" duration="4924000" />
       <workItem from="1546932082045" duration="6580000" />
-      <workItem from="1546946437514" duration="10587000" />
+      <workItem from="1546946437514" duration="10732000" />
+      <workItem from="1547002039902" duration="3756000" />
+      <workItem from="1547016502093" duration="6049000" />
     </task>
     <task id="LOCAL-00001" summary="commit">
       <created>1546664003070</created>
@@ -372,11 +377,18 @@
       <option name="project" value="LOCAL" />
       <updated>1546788715525</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="daily commit">
+      <created>1546961068707</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1546961068707</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="72345000" />
+    <option name="totallyTimeSpent" value="82295000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -388,15 +400,16 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-7" y="-7" width="1295" height="695" extended-state="6" />
+    <frame x="379" y="5" width="876" height="672" extended-state="0" />
+    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.6494845" visible="true" weight="0.24171382" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.6494845" weight="0.24572127" />
       <window_info id="Structure" order="1" sideWeight="0.35051546" side_tool="true" weight="0.101591185" />
       <window_info id="Favorites" order="2" sideWeight="0.5008881" side_tool="true" weight="0.12206952" />
       <window_info anchor="bottom" id="Concurrent Activities Diagram" order="0" weight="0.3285968" />
       <window_info anchor="bottom" id="Message" order="1" />
       <window_info anchor="bottom" id="Find" order="2" />
-      <window_info anchor="bottom" id="Run" order="3" sideWeight="0.4995958" visible="true" weight="0.3285968" />
+      <window_info anchor="bottom" id="Run" order="3" sideWeight="0.4995958" weight="0.33703703" />
       <window_info anchor="bottom" id="Debug" order="4" weight="0.32149202" />
       <window_info anchor="bottom" id="Cvs" order="5" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="6" weight="0.4" />
@@ -533,20 +546,34 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Python_High_Level_Syntax/23. Python高级语法-函数式编程.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="FIRST">
-          <first_editor relative-caret-position="259">
-            <caret line="47" column="9" selection-start-line="47" selection-start-column="9" selection-end-line="47" selection-end-column="9" />
-          </first_editor>
-          <second_editor />
+    <entry file="file://$PROJECT_DIR$/Python_High_Level_Syntax/23_2.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret lean-forward="true" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Python_High_Level_Syntax/23_1.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="238">
-          <caret line="82" column="12" selection-start-line="82" selection-start-column="12" selection-end-line="82" selection-end-column="12" />
+        <state relative-caret-position="146">
+          <caret line="151" column="9" lean-forward="true" selection-start-line="151" selection-start-column="9" selection-end-line="151" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Python_High_Level_Syntax/23_3.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="264">
+          <caret line="34" column="13" selection-start-line="34" selection-start-column="13" selection-end-line="34" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Python_High_Level_Syntax/23. Python高级语法-函数式编程.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="FIRST">
+          <first_editor relative-caret-position="255">
+            <caret line="85" column="16" lean-forward="true" selection-start-line="85" selection-start-column="16" selection-end-line="85" selection-end-column="16" />
+          </first_editor>
+          <second_editor />
         </state>
       </provider>
     </entry>
