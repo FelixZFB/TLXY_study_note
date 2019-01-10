@@ -32,5 +32,21 @@ q.append('d')
 q.appendleft('x')
 print(q)
 
+
 # defaultdict
+from collections import defaultdict
+func = lambda: "Felix"
+d2 = defaultdict(func)
+
+print(d2['one'])
+print(d2['four'])
+
+
+# Counter统计每个字符出现的个数,返回字典
+from collections import Counter
+c = Counter('abcfeafffefaljdfjakdjkdjdkkd')
+print(c)
+
+
+
 
