@@ -10,3 +10,6 @@ CRITICAL:root:This is a critical log.
 2019-01-10 22:33:03,998=====WARNING+++++This is a warning log.
 2019-01-10 22:33:03,998=====ERROR+++++This is a error log.
 2019-01-10 22:33:03,998=====CRITICAL+++++This is a critical log.
+2019-01-12 21:14:41,873=====WARNING+++++This is a warning log.
+2019-01-12 21:14:41,874=====ERROR+++++This is a error log.
+2019-01-12 21:14:41,874=====CRITICAL+++++This is a critical log.
