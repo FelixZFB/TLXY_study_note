@@ -2,48 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="256ace50-4360-4007-8185-2febdb999e95" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Python_High_Level_Syntax/协程/32_5.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python_High_Level_Syntax/格式化文件xml-json/34. Python高级语法-格式化文件-xml-json.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python_High_Level_Syntax/格式化文件xml-json/34_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python_High_Level_Syntax/格式化文件xml-json/34_2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python_High_Level_Syntax/格式化文件xml-json/movies.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python_High_Level_Syntax/格式化文件xml-json/movies.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python_High_Level_Syntax/正则表达式和XPath/36. Python高级语法-正则和XPath.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python_High_Level_Syntax/正则表达式和XPath/36_1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python_High_Level_Syntax/正则表达式和XPath/36_2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python_High_Level_Syntax/正则表达式和XPath/36_3.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python_High_Level_Syntax/正则表达式和XPath/36_4.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python_High_Level_Syntax/正则表达式和XPath/36_5.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python_High_Level_Syntax/正则表达式和XPath/books.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python_High_Level_Syntax/网络编程ftp-http/37. Python高级语法-net编程" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python_High_Level_Syntax/网络编程ftp-http/37. Python高级语法-net编程-ftp-http.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python_High_Level_Syntax/网络编程ftp-http/37_1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/TLXY_study_note.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/TLXY_study_note.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python_High_Level_Syntax/协程/32. Python高级语法-协程.md" beforeDir="false" afterPath="$PROJECT_DIR$/Python_High_Level_Syntax/协程/32. Python高级语法-协程.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python_High_Level_Syntax/多线程/28. Python高级语法-多线程.md" beforeDir="false" afterPath="$PROJECT_DIR$/Python_High_Level_Syntax/多线程threading/28. Python高级语法-多线程.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python_High_Level_Syntax/多线程/28_1.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python_High_Level_Syntax/多线程threading/28_1.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python_High_Level_Syntax/多线程/28_10.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python_High_Level_Syntax/多线程threading/28_10.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python_High_Level_Syntax/多线程/28_11.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python_High_Level_Syntax/多线程threading/28_11.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python_High_Level_Syntax/多线程/28_12.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python_High_Level_Syntax/多线程threading/28_12.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python_High_Level_Syntax/多线程/28_13.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python_High_Level_Syntax/多线程threading/28_13.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python_High_Level_Syntax/多线程/28_14.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python_High_Level_Syntax/多线程threading/28_14.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python_High_Level_Syntax/多线程/28_2.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python_High_Level_Syntax/多线程threading/28_2.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python_High_Level_Syntax/多线程/28_3.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python_High_Level_Syntax/多线程threading/28_3.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python_High_Level_Syntax/多线程/28_4.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python_High_Level_Syntax/多线程threading/28_4.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python_High_Level_Syntax/多线程/28_5.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python_High_Level_Syntax/多线程threading/28_5.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python_High_Level_Syntax/多线程/28_6.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python_High_Level_Syntax/多线程threading/28_6.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python_High_Level_Syntax/多线程/28_7.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python_High_Level_Syntax/多线程threading/28_7.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python_High_Level_Syntax/多线程/28_8.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python_High_Level_Syntax/多线程threading/28_8.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python_High_Level_Syntax/多线程/28_9.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python_High_Level_Syntax/多线程threading/28_9.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python_High_Level_Syntax/多线程/all.log" beforeDir="false" afterPath="$PROJECT_DIR$/Python_High_Level_Syntax/多线程threading/all.log" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python_High_Level_Syntax/多线程/db.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Python_High_Level_Syntax/多线程threading/db.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python_High_Level_Syntax/多线程/error.log" beforeDir="false" afterPath="$PROJECT_DIR$/Python_High_Level_Syntax/多线程threading/error.log" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python_High_Level_Syntax/多线程/shv.db.bak" beforeDir="false" afterPath="$PROJECT_DIR$/Python_High_Level_Syntax/多线程threading/shv.db.bak" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python_High_Level_Syntax/多线程/shv.db.dat" beforeDir="false" afterPath="$PROJECT_DIR$/Python_High_Level_Syntax/多线程threading/shv.db.dat" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python_High_Level_Syntax/多线程/shv.db.dir" beforeDir="false" afterPath="$PROJECT_DIR$/Python_High_Level_Syntax/多线程threading/shv.db.dir" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python_High_Level_Syntax/多线程/test01.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Python_High_Level_Syntax/多线程threading/test01.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python_High_Level_Syntax/多线程/test02.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Python_High_Level_Syntax/多线程threading/test02.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python_High_Level_Syntax/多线程/test03.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Python_High_Level_Syntax/多线程threading/test03.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python_High_Level_Syntax/文件file/26_1.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python_High_Level_Syntax/文件file/26_1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python_High_Level_Syntax/网络编程ftp-http/37. Python高级语法-net编程" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python_High_Level_Syntax/网络编程ftp-http/37. Python高级语法-net编程-ftp-http.md" beforeDir="false" afterPath="$PROJECT_DIR$/Python_High_Level_Syntax/网络编程ftp-http/37. Python高级语法-net编程-ftp-http.md" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -119,7 +83,19 @@
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="FIRST">
               <first_editor>
-                <caret lean-forward="true" selection-end-line="2" selection-end-column="30" />
+                <caret selection-end-line="2" selection-end-column="30" />
+              </first_editor>
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Python_High_Level_Syntax/网络编程ftp-http/37. Python高级语法-net编程-ftp-http.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="336">
+                <caret line="41" column="12" selection-start-line="41" selection-start-column="12" selection-end-line="41" selection-end-column="12" />
               </first_editor>
               <second_editor />
             </state>
@@ -127,13 +103,10 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Python_High_Level_Syntax/网络编程ftp-http/37. Python高级语法-net编程-ftp-http.md">
-          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-            <state split_layout="SPLIT">
-              <first_editor relative-caret-position="154">
-                <caret line="7" column="4" selection-start-line="7" selection-start-column="4" selection-end-line="7" selection-end-column="4" />
-              </first_editor>
-              <second_editor />
+        <entry file="file://$PROJECT_DIR$/Python_High_Level_Syntax/网络编程ftp-http/37_1.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="88">
+              <caret line="4" selection-start-line="4" selection-end-line="4" />
             </state>
           </provider>
         </entry>
@@ -156,7 +129,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/Python_High_Level_Syntax/23_3.py" />
         <option value="$PROJECT_DIR$/Python_High_Level_Syntax/23. Python高级语法-函数式编程.md" />
         <option value="$PROJECT_DIR$/Python_High_Level_Syntax/test01.txt" />
         <option value="$PROJECT_DIR$/Python_High_Level_Syntax/111.py" />
@@ -207,6 +179,7 @@
         <option value="$PROJECT_DIR$/Python_High_Level_Syntax/正则表达式和XPath/36_5.py" />
         <option value="$PROJECT_DIR$/Python_High_Level_Syntax/正则表达式和XPath/books.xml" />
         <option value="$PROJECT_DIR$/Python_High_Level_Syntax/网络编程ftp-http/37. Python高级语法-net编程-ftp-http.md" />
+        <option value="$PROJECT_DIR$/Python_High_Level_Syntax/网络编程ftp-http/37_1.py" />
       </list>
     </option>
   </component>
@@ -231,17 +204,6 @@
               <item name="TLXY_study_note" type="b2602c69:ProjectViewProjectNode" />
               <item name="TLXY_study_note" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="TLXY_study_note" type="b2602c69:ProjectViewProjectNode" />
-              <item name="TLXY_study_note" type="462c0819:PsiDirectoryNode" />
-              <item name="Python_High_Level_Syntax" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="TLXY_study_note" type="b2602c69:ProjectViewProjectNode" />
-              <item name="TLXY_study_note" type="462c0819:PsiDirectoryNode" />
-              <item name="Python_High_Level_Syntax" type="462c0819:PsiDirectoryNode" />
-              <item name="网络编程ftp-http" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
@@ -254,7 +216,7 @@
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
-    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
@@ -478,7 +440,7 @@
       <workItem from="1547119002834" duration="13338000" />
       <workItem from="1547188389682" duration="2568000" />
       <workItem from="1547265872072" duration="26724000" />
-      <workItem from="1547350340515" duration="22947000" />
+      <workItem from="1547350340515" duration="26056000" />
     </task>
     <task id="LOCAL-00001" summary="commit">
       <created>1546664003070</created>
@@ -571,11 +533,18 @@
       <option name="project" value="LOCAL" />
       <updated>1547306919448</updated>
     </task>
-    <option name="localTasksCounter" value="14" />
+    <task id="LOCAL-00014" summary="daily commit">
+      <created>1547383665347</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1547383665347</updated>
+    </task>
+    <option name="localTasksCounter" value="15" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="160894000" />
+    <option name="totallyTimeSpent" value="164003000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -588,7 +557,6 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1295" height="695" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.6483126" visible="true" weight="0.20210186" />
       <window_info id="Structure" order="1" sideWeight="0.3516874" side_tool="true" visible="true" weight="0.20210186" />
@@ -668,16 +636,6 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/Python_High_Level_Syntax/多线程threading/28_2.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="154">
-          <caret line="22" column="23" selection-start-line="22" selection-start-column="23" selection-end-line="22" selection-end-column="23" />
-          <folding>
-            <element signature="e#19#30#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Python_High_Level_Syntax/多线程threading/28_3.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="88">
@@ -1026,7 +984,7 @@
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="FIRST">
           <first_editor>
-            <caret lean-forward="true" selection-end-line="2" selection-end-column="30" />
+            <caret selection-end-line="2" selection-end-column="30" />
           </first_editor>
           <second_editor />
         </state>
@@ -1035,10 +993,17 @@
     <entry file="file://$PROJECT_DIR$/Python_High_Level_Syntax/网络编程ftp-http/37. Python高级语法-net编程-ftp-http.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="154">
-            <caret line="7" column="4" selection-start-line="7" selection-start-column="4" selection-end-line="7" selection-end-column="4" />
+          <first_editor relative-caret-position="336">
+            <caret line="41" column="12" selection-start-line="41" selection-start-column="12" selection-end-line="41" selection-end-column="12" />
           </first_editor>
           <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Python_High_Level_Syntax/网络编程ftp-http/37_1.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="88">
+          <caret line="4" selection-start-line="4" selection-end-line="4" />
         </state>
       </provider>
     </entry>
