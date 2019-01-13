@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="GB18030" ?>
+<School type="online" loc="beijing">
+
+    <Teacher>
+    <!--我是注释1-->
+    <name>Felix</name>
+    <age>20</age>
+    </Teacher>
+
+    <Student1 type="web">
+    <name>Felix</name>
+    <age>20</age>
+    </Student1>
+
+    <Student2>
+    <name>Felix</name>
+    <age>20</age>
+    </Student2>
+
+    <!--实体引用写法-->
+    <score> score&gt;80 </score>
+
+</School>
+
+
+
+

@@ -59,3 +59,9 @@ with open('test01.txt', 'r') as f:
 with open('test01.txt', 'r') as f:
     s = f.read()
     print(s)
+
+
+
+
+
+
