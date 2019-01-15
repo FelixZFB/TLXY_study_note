@@ -9,6 +9,7 @@ if __name__ == '__main__':
     # 打开一个URL然后返回页面的内容
     rsp = request.urlopen(url)
     # 把返回的结果读取出来
+    print(type(rsp))
     html = rsp.read()
     print(type(html))
     # 利用chardet检测编码
