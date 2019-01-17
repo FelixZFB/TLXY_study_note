@@ -1,7 +1,5 @@
-# 自动使用cookie登陆的流程
-# 打开登陆页面后自动通过用户密码登陆
-# 自动提取反馈回来的cookie
-# 利用提取的cookie登陆隐私页面
+# 将cookie打印出来
+# 看看cookie里面有什么
 
 from urllib import request, parse
 from http import cookiejar
@@ -29,7 +27,10 @@ def login():
     url = 'http://www.renren.com/PLogin.do'
 
     # 此键值需要从登录form的对应两个input中提取name属性
-    data = {'email': '908851835@qq.com', 'password': 'zfb123456'}
+    data = {
+        'email': '908851835@qq.com',
+        'password': 'zfb123456'
+        }
 
     # 把数据进行编码
     data = parse.urlencode(data)
@@ -40,19 +41,21 @@ def login():
     # 使用opener发起请求,会自动提取我的cookie
     rsp = opener.open(req)
 
-def getHomePage():
-    url = 'http://www.renren.com/574862780'
-
-    # 如果已经执行了login,则opener则自动已经包含了相应的cookie值
-    rsp = opener.open(url)
-    # 读取网页的内容并进行解码
-    html = rsp.read().decode()
-    # 将打开的网页保存为html文件，然后浏览器打开
-    with open('43_13_rsp.html', 'w') as f:
-        f.write(html)
 
 if __name__ == '__main__':
+    # 如果已经执行了login,则opener则自动已经包含了相应的cookie值
     login()
-    getHomePage()
+    # 我们将cookie打印出来，可以采用访问字典的方式访问
+    print(cookie)
+    for item in cookie:
+        print(type(cookie))
+        print(item)
+        # 获取item的属性
+        print(dir(item))
+    # 把最后一个item里面所有的变量打印出来
+    for i in dir(item):
+        print(i)
+
+
 
 

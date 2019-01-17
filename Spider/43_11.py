@@ -9,7 +9,7 @@ from urllib import request
 if __name__ == '__main__':
 
     # 个人人人网登陆后的个人主页
-    url = 'http://www.renren.com/969464538/profile'
+    url = 'http://www.renren.com/574862780'
     rsp = request.urlopen(url)
     html = rsp.read().decode('UTF-8')
     # 将打开的网页保存为html文件，然后浏览器打开
