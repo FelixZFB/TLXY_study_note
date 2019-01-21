@@ -10,7 +10,7 @@ if __name__ == '__main__':
     key = input("请输入需要翻译的文字: ")
 
     # 打开有道在线翻译，输入girl，检查，找到headers,复制里面的网址
-    url = 'http://fanyi.youdao.com/translate?smartresult=dict&smartresult=rule'
+    url = 'http://fanyi.youdao.com/translate_o?smartresult=dict&smartresult=rule'
 
     # 将网页中的Form Data中的所有数据复制出来
     data = {

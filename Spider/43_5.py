@@ -28,9 +28,11 @@ wd = input('Input your keyword: ')
 data = {'kw': wd}
 
 # 需要对data进行编码
+# urlencode(data)对字典编码之后是一个字符串str,还需要编码为字节，encode编码，默认的是utf-8
 data = parse.urlencode(data).encode('utf-8')
 print(type(data))
 print(data)
+
 
 # 有了data和url就可以尝试发出请求了，获取网页的内容
 rsp = request.urlopen(baseurl, data=data)
