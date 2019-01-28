@@ -8,7 +8,7 @@
 import scrapy
 
 
-class ScrapystudyItem(scrapy.Item):
+class Mingyan2Item(scrapy.Item):
     # define the fields for your item here like:
     # name = scrapy.Field()
     pass
