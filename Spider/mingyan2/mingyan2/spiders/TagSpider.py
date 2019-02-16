@@ -1,15 +1,29 @@
-# 提取http://lab.scrapyd.cn中的五条名言
-# 然后接着继续爬取下一页，下一页......
-# 作者-语录合集命名保存
+# 该爬虫传入参数
+# 根据标签分类爬取该标签下面所有的名言
+# 标签名-作者-语录合集命名保存
+# 执行爬虫时候传入Tag命令
+# scrapy crawl argsSpider -a tag=爱情
 
 import scrapy
 
 # 定义一个spider类，继承Spider父类
-class NextSpider(scrapy.Spider):
+class TagSpider(scrapy.Spider):
 
     # 定义蜘蛛名
-    name = 'NextSpider'
-    start_urls = ['http://lab.scrapyd.cn']
+    name = 'TagSpider'
+
+    def start_requests(self):
+
+        url = 'http://lab.scrapyd.cn'
+        # 获取tag的值，也就是爬虫执行时传递过来的参数
+        # 执行爬虫时传入tag: scrapy crawl argsSpider -a tag=爱情
+        tag = getattr(self, 'tag', None)
+        # 判断tag是否存在，若存在，则重新构造url
+        if tag is not None:
+            url = url + '/tag/' + tag
+        yield scrapy.Request(url, self.parse)
+
+
 
     def parse(self, response):
 
@@ -19,14 +33,15 @@ class NextSpider(scrapy.Spider):
         for v in mingyan:
             # 提取css中text标签对应的文字内容，名言的正文
             text = v.css('.text::text').extract_first()
-            # 提取作者
-            author = v.css('.author::text').extract_first()
+            # 提取作者,该作者是放在small标签里面，提取出来的是一个列表，下面命名时候需要取出值
+            author = v.css('small::text').extract()
+            author = author[0]
             # 提取标签
             tags = v.css('.tags .tag::text').extract()
             # 数组转换为字符串
             tags = ', '.join(tags)
             # 将爬去的内容存入文件，文件名为：编号. 作者-语录.txt
-            filename =  '%s-语录合集.txt' %(author)
+            filename =  '爱情-%s-语录合集.txt' %(author)
             # 以写的方式打开文件并写入内容
             with open(filename, "a+") as f:
                 f.write(text)
@@ -41,7 +56,6 @@ class NextSpider(scrapy.Spider):
         # css选择器提取下一页链接，并判断是否有下一页这个链接
 
         # 第一次实现时extract_first()写成了extrast_first()，未提示拼写错误
-        # <li class="next"><a href="http://lab.scrapyd.cn/page/2/">下一页 &raquo;
         next_page = response.css('li.next a::attr(href)').extract_first()
         if next_page is not None:
 

@@ -3,7 +3,7 @@
 
 import scrapy
 
-# 定义一个mingyan类，继承Spider父类
+# 定义一个spider类，继承Spider父类
 class ItemSpider(scrapy.Spider):
 
     # 定义蜘蛛名
