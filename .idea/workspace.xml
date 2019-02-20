@@ -2,36 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="256ace50-4360-4007-8185-2febdb999e95" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Spider/ScrapyProject-master/meizitu111/111.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Spider/ScrapyProject-master/meizitu111/meizitu.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Spider/mingyan2/mingyan2/spiders/TagSpider.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Spider111/ImageSpider/ImageSpider/spiders/ImgSpider.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python_High_Level_Syntax/多线程threading/28_10_1.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python_High_Level_Syntax/多线程threading/28. Python高级语法-多线程.md" beforeDir="false" afterPath="$PROJECT_DIR$/Python_High_Level_Syntax/多线程threading/28. Python高级语法-多线程.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python_High_Level_Syntax/多线程threading/28_10.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python_High_Level_Syntax/多线程threading/28_10.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python_High_Level_Syntax/多线程threading/28_6.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python_High_Level_Syntax/多线程threading/28_6.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python_High_Level_Syntax/多线程threading/28_8.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python_High_Level_Syntax/多线程threading/28_8.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Spider/4. Scrapy/82. Scrapy.md" beforeDir="false" afterPath="$PROJECT_DIR$/Spider/4. Scrapy/82. Scrapy.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Spider/mingyan2/mingyan2/spiders/ItemSpider.py" beforeDir="false" afterPath="$PROJECT_DIR$/Spider/mingyan2/mingyan2/spiders/ItemSpider.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Spider/mingyan2/mingyan2/spiders/ListSpider.py" beforeDir="false" afterPath="$PROJECT_DIR$/Spider/mingyan2/mingyan2/spiders/ListSpider.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Spider/mingyan2/mingyan2/spiders/NextSpider.py" beforeDir="false" afterPath="$PROJECT_DIR$/Spider/mingyan2/mingyan2/spiders/NextSpider.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Spider/mingyan2/mingyan2/spiders/mingyan_spider.py" beforeDir="false" afterPath="$PROJECT_DIR$/Spider/mingyan2/mingyan2/spiders/mingyan_spider.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Spider/mingyan2/《心经》-语录合集.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Spider/mingyan2/中国传世名画-语录合集.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Spider/mingyan2/元好问-语录合集.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Spider/mingyan2/卢梭-语录合集.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Spider/mingyan2/天价世界名画-语录合集.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Spider/mingyan2/富兰克林-语录合集.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Spider/mingyan2/戴尔·卡耐基-语录合集.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Spider/mingyan2/有志者-语录合集.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Spider/mingyan2/木心-语录合集.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Spider/mingyan2/李之仪-语录合集.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Spider/mingyan2/泰戈尔-语录合集.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Spider/mingyan2/洛克-语录合集.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Spider/mingyan2/爱迪生-语录合集.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Spider/mingyan2/王尔德-语录合集.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Spider/mingyan2/纳兰容若-语录合集.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Spider/mingyan2/苏轼-语录合集.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Spider/mingyan2/辛弃疾-语录合集.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Spider/mingyan2/道德经-语录合集.txt" beforeDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -40,7 +17,7 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="CoverageDataManager">
-    <SUITE FILE_PATH="coverage/TLXY_study_note$28_10.coverage" NAME="28_10 Coverage Results" MODIFIED="1547285666184" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python_High_Level_Syntax" />
+    <SUITE FILE_PATH="coverage/TLXY_study_note$28_10.coverage" NAME="28_10 Coverage Results" MODIFIED="1550671594666" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python_High_Level_Syntax/多线程threading" />
     <SUITE FILE_PATH="coverage/TLXY_study_note$AoiSolaSpider.coverage" NAME="AoiSolaSpider Coverage Results" MODIFIED="1548837031168" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Spider/AoiSolas/AoiSolas/spiders" />
     <SUITE FILE_PATH="coverage/TLXY_study_note$43_19_1.coverage" NAME="43_19_1 Coverage Results" MODIFIED="1548128667269" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Spider" />
     <SUITE FILE_PATH="coverage/TLXY_study_note$43_6.coverage" NAME="43_6 Coverage Results" MODIFIED="1547646880574" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Spider" />
@@ -48,9 +25,9 @@
     <SUITE FILE_PATH="coverage/TLXY_study_note$mingyan_spider.coverage" NAME="mingyan_spider Coverage Results" MODIFIED="1548579565719" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Spider/mingyan2/mingyan2/spiders" />
     <SUITE FILE_PATH="coverage/TLXY_study_note$67_4.coverage" NAME="67_4 Coverage Results" MODIFIED="1548248153407" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Spider/2. 网络爬虫_数据解析提取" />
     <SUITE FILE_PATH="coverage/TLXY_study_note$19_1.coverage" NAME="19_1 Coverage Results" MODIFIED="1546939086354" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Package_Module" />
-    <SUITE FILE_PATH="coverage/TLXY_study_note$28_9.coverage" NAME="28_9 Coverage Results" MODIFIED="1547281762291" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python_High_Level_Syntax" />
-    <SUITE FILE_PATH="coverage/TLXY_study_note$28_3.coverage" NAME="28_3 Coverage Results" MODIFIED="1547270223231" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python_High_Level_Syntax" />
+    <SUITE FILE_PATH="coverage/TLXY_study_note$28_9.coverage" NAME="28_9 Coverage Results" MODIFIED="1550670990079" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python_High_Level_Syntax/多线程threading" />
     <SUITE FILE_PATH="coverage/TLXY_study_note$ImgSpider.coverage" NAME="ImgSpider Coverage Results" MODIFIED="1548861191777" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Spider/ScrapyProject-master/ImageSpider/ImageSpider/spiders" />
+    <SUITE FILE_PATH="coverage/TLXY_study_note$28_3.coverage" NAME="28_3 Coverage Results" MODIFIED="1550653478571" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python_High_Level_Syntax/多线程threading" />
     <SUITE FILE_PATH="coverage/TLXY_study_note$43_23.coverage" NAME="43_23 Coverage Results" MODIFIED="1548124126361" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Spider" />
     <SUITE FILE_PATH="coverage/TLXY_study_note$01.coverage" NAME="01 Coverage Results" MODIFIED="1546684754943" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/oop" />
     <SUITE FILE_PATH="coverage/TLXY_study_note$32_2.coverage" NAME="32_2 Coverage Results" MODIFIED="1547302814069" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python_High_Level_Syntax/协程" />
@@ -64,7 +41,7 @@
     <SUITE FILE_PATH="coverage/TLXY_study_note$43_7.coverage" NAME="43_7 Coverage Results" MODIFIED="1547607913726" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Spider" />
     <SUITE FILE_PATH="coverage/TLXY_study_note$43_18_2.coverage" NAME="43_18_2 Coverage Results" MODIFIED="1547779053232" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Spider" />
     <SUITE FILE_PATH="coverage/TLXY_study_note$23_1.coverage" NAME="23_1 Coverage Results" MODIFIED="1547298905934" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python_High_Level_Syntax/函数编程" />
-    <SUITE FILE_PATH="coverage/TLXY_study_note$28_1.coverage" NAME="28_1 Coverage Results" MODIFIED="1547269811107" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python_High_Level_Syntax" />
+    <SUITE FILE_PATH="coverage/TLXY_study_note$28_1.coverage" NAME="28_1 Coverage Results" MODIFIED="1550652676191" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python_High_Level_Syntax/多线程threading" />
     <SUITE FILE_PATH="coverage/TLXY_study_note$43_18.coverage" NAME="43_18 Coverage Results" MODIFIED="1547735477232" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Spider" />
     <SUITE FILE_PATH="coverage/TLXY_study_note$23_2.coverage" NAME="23_2 Coverage Results" MODIFIED="1547298910856" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python_High_Level_Syntax/函数编程" />
     <SUITE FILE_PATH="coverage/TLXY_study_note$77_1_1.coverage" NAME="77_1_1 Coverage Results" MODIFIED="1548393014184" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Spider/3. 动态HTML" />
@@ -81,8 +58,8 @@
     <SUITE FILE_PATH="coverage/TLXY_study_note$26_1.coverage" NAME="26_1 Coverage Results" MODIFIED="1547298957153" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python_High_Level_Syntax/文件file" />
     <SUITE FILE_PATH="coverage/TLXY_study_note$32_4.coverage" NAME="32_4 Coverage Results" MODIFIED="1547305610690" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python_High_Level_Syntax/协程" />
     <SUITE FILE_PATH="coverage/TLXY_study_note$TagSpider.coverage" NAME="TagSpider Coverage Results" MODIFIED="1548848825723" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Spider/mingyan2/mingyan2/spiders" />
-    <SUITE FILE_PATH="coverage/TLXY_study_note$28_8.coverage" NAME="28_8 Coverage Results" MODIFIED="1547280449530" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python_High_Level_Syntax" />
     <SUITE FILE_PATH="coverage/TLXY_study_note$67_8.coverage" NAME="67_8 Coverage Results" MODIFIED="1548253815043" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Spider/2. 网络爬虫_数据解析提取" />
+    <SUITE FILE_PATH="coverage/TLXY_study_note$28_8.coverage" NAME="28_8 Coverage Results" MODIFIED="1550670657440" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python_High_Level_Syntax/多线程threading" />
     <SUITE FILE_PATH="coverage/TLXY_study_note$37_1.coverage" NAME="37_1 Coverage Results" MODIFIED="1547455756372" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python_High_Level_Syntax/网络编程ftp-http" />
     <SUITE FILE_PATH="coverage/TLXY_study_note$27_1.coverage" NAME="27_1 Coverage Results" MODIFIED="1547298881006" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python_High_Level_Syntax/log" />
     <SUITE FILE_PATH="coverage/TLXY_study_note$67_22.coverage" NAME="67_22 Coverage Results" MODIFIED="1548686751891" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Spider/2. 网络爬虫_数据解析提取" />
@@ -101,17 +78,17 @@
     <SUITE FILE_PATH="coverage/TLXY_study_note$13_3.coverage" NAME="13_3 Coverage Results" MODIFIED="1546780090942" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/oop" />
     <SUITE FILE_PATH="coverage/TLXY_study_note$77_1.coverage" NAME="77_1 Coverage Results" MODIFIED="1548426033816" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Spider/3. 动态HTML" />
     <SUITE FILE_PATH="coverage/TLXY_study_note$ImgSpider__2_.coverage" NAME="ImgSpider (2) Coverage Results" MODIFIED="1548848032202" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Spider/ScrapyProject-master/ImageSpider/ImageSpider/spiders" />
-    <SUITE FILE_PATH="coverage/TLXY_study_note$28_6.coverage" NAME="28_6 Coverage Results" MODIFIED="1547281194977" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python_High_Level_Syntax" />
     <SUITE FILE_PATH="coverage/TLXY_study_note$77_3__1_.coverage" NAME="77_3 (1) Coverage Results" MODIFIED="1548567572241" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Spider/3. 动态HTML" />
+    <SUITE FILE_PATH="coverage/TLXY_study_note$28_6.coverage" NAME="28_6 Coverage Results" MODIFIED="1550669261975" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python_High_Level_Syntax/多线程threading" />
     <SUITE FILE_PATH="coverage/TLXY_study_note$67_14.coverage" NAME="67_14 Coverage Results" MODIFIED="1548298270515" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Spider/2. 网络爬虫_数据解析提取" />
     <SUITE FILE_PATH="coverage/TLXY_study_note$36_4.coverage" NAME="36_4 Coverage Results" MODIFIED="1548227074223" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python_High_Level_Syntax/正则表达式和XPath" />
     <SUITE FILE_PATH="coverage/TLXY_study_note$43_20.coverage" NAME="43_20 Coverage Results" MODIFIED="1548077192457" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Spider" />
     <SUITE FILE_PATH="coverage/TLXY_study_note$26_3.coverage" NAME="26_3 Coverage Results" MODIFIED="1547298942097" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python_High_Level_Syntax/文件file" />
     <SUITE FILE_PATH="coverage/TLXY_study_note$43_2.coverage" NAME="43_2 Coverage Results" MODIFIED="1547542045151" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Spider" />
     <SUITE FILE_PATH="coverage/TLXY_study_note$ImgSpider__1_.coverage" NAME="ImgSpider (1) Coverage Results" MODIFIED="1548846100025" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Spider/ImgSpiderMM/ImgSpider/spiders" />
-    <SUITE FILE_PATH="coverage/TLXY_study_note$28_5.coverage" NAME="28_5 Coverage Results" MODIFIED="1547270909300" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python_High_Level_Syntax" />
     <SUITE FILE_PATH="coverage/TLXY_study_note$28_14.coverage" NAME="28_14 Coverage Results" MODIFIED="1547298061926" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python_High_Level_Syntax" />
     <SUITE FILE_PATH="coverage/TLXY_study_note$36_3.coverage" NAME="36_3 Coverage Results" MODIFIED="1547378446647" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python_High_Level_Syntax/正则表达式和XPath" />
+    <SUITE FILE_PATH="coverage/TLXY_study_note$28_5.coverage" NAME="28_5 Coverage Results" MODIFIED="1550669128517" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python_High_Level_Syntax/多线程threading" />
     <SUITE FILE_PATH="coverage/TLXY_study_note$34_2.coverage" NAME="34_2 Coverage Results" MODIFIED="1547365361740" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python_High_Level_Syntax/格式化文件xml-json" />
     <SUITE FILE_PATH="coverage/TLXY_study_note$67_19.coverage" NAME="67_19 Coverage Results" MODIFIED="1548315998415" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Spider/2. 网络爬虫_数据解析提取" />
     <SUITE FILE_PATH="coverage/TLXY_study_note$28_4.coverage" NAME="28_4 Coverage Results" MODIFIED="1547270333955" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python_High_Level_Syntax" />
@@ -119,8 +96,8 @@
     <SUITE FILE_PATH="coverage/TLXY_study_note$42_21.coverage" NAME="42_21 Coverage Results" MODIFIED="1548120383637" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Spider" />
     <SUITE FILE_PATH="coverage/TLXY_study_note$TLXY_study_note.coverage" NAME="TLXY_study_note Coverage Results" MODIFIED="1546613003522" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="" />
     <SUITE FILE_PATH="coverage/TLXY_study_note$19_2.coverage" NAME="19_2 Coverage Results" MODIFIED="1546951946790" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Package_Module" />
-    <SUITE FILE_PATH="coverage/TLXY_study_note$28_7.coverage" NAME="28_7 Coverage Results" MODIFIED="1547273834997" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python_High_Level_Syntax" />
     <SUITE FILE_PATH="coverage/TLXY_study_note$AoiSolaSpider__1_.coverage" NAME="AoiSolaSpider (1) Coverage Results" MODIFIED="1548849007253" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Spider/ScrapyProject-master/AoiSolas/AoiSolas/spiders" />
+    <SUITE FILE_PATH="coverage/TLXY_study_note$28_7.coverage" NAME="28_7 Coverage Results" MODIFIED="1550670564982" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python_High_Level_Syntax/多线程threading" />
     <SUITE FILE_PATH="coverage/TLXY_study_note$43_15.coverage" NAME="43_15 Coverage Results" MODIFIED="1547727928013" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Spider" />
     <SUITE FILE_PATH="coverage/TLXY_study_note$settings.coverage" NAME="settings Coverage Results" MODIFIED="1548860362407" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Spider/ScrapyProject-master/meizitulx/meizitulx" />
     <SUITE FILE_PATH="coverage/TLXY_study_note$meizitu.coverage" NAME="meizitu Coverage Results" MODIFIED="1548858510487" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Spider/ScrapyProject-master/meizitu111" />
@@ -148,7 +125,7 @@
     <SUITE FILE_PATH="coverage/TLXY_study_note$28_12.coverage" NAME="28_12 Coverage Results" MODIFIED="1547288662011" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python_High_Level_Syntax" />
     <SUITE FILE_PATH="coverage/TLXY_study_note$43_10.coverage" NAME="43_10 Coverage Results" MODIFIED="1547644252812" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Spider" />
     <SUITE FILE_PATH="coverage/TLXY_study_note$32_3.coverage" NAME="32_3 Coverage Results" MODIFIED="1547352934146" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python_High_Level_Syntax/协程" />
-    <SUITE FILE_PATH="coverage/TLXY_study_note$28_2.coverage" NAME="28_2 Coverage Results" MODIFIED="1547270214825" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python_High_Level_Syntax" />
+    <SUITE FILE_PATH="coverage/TLXY_study_note$28_2.coverage" NAME="28_2 Coverage Results" MODIFIED="1550653372209" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python_High_Level_Syntax/多线程threading" />
     <SUITE FILE_PATH="coverage/TLXY_study_note$77_2.coverage" NAME="77_2 Coverage Results" MODIFIED="1548474918688" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Spider/3. 动态HTML" />
   </component>
   <component name="DatabaseView">
@@ -170,13 +147,104 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Python_High_Level_Syntax/多线程threading/28. Python高级语法-多线程.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="FIRST">
+              <first_editor relative-caret-position="88">
+                <caret line="71" column="11" lean-forward="true" selection-start-line="71" selection-start-column="11" selection-end-line="71" selection-end-column="11" />
+              </first_editor>
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Spider/ScrapyProject-master/ImageSpider/ImageSpider/spiders/ImgSpider.py">
+        <entry file="file://$PROJECT_DIR$/Python_High_Level_Syntax/多线程threading/28_10.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-15">
-              <caret line="17" column="29" selection-start-line="17" selection-start-column="29" selection-end-line="17" selection-end-column="29" />
+            <state relative-caret-position="286">
+              <caret line="28" column="25" selection-start-line="28" selection-start-column="25" selection-end-line="28" selection-end-column="25" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Python_High_Level_Syntax/多线程threading/28_10_1.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="131">
+              <caret line="25" selection-start-line="25" selection-end-line="25" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Python_High_Level_Syntax/多线程threading/28_11.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-440" />
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Python_High_Level_Syntax/多线程threading/28_9.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="330">
+              <caret line="20" column="34" lean-forward="true" selection-start-line="20" selection-start-column="34" selection-end-line="20" selection-end-column="34" />
               <folding>
-                <element signature="e#95#108#0" expanded="true" />
+                <element signature="e#12#23#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Python_High_Level_Syntax/多线程threading/28_7.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="242">
+              <caret line="16" column="13" lean-forward="true" selection-start-line="16" selection-start-column="13" selection-end-line="16" selection-end-column="13" />
+              <folding>
+                <element signature="e#11#22#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Python_High_Level_Syntax/多线程threading/28_8.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="286">
+              <caret line="18" column="30" selection-start-line="18" selection-start-column="30" selection-end-line="18" selection-end-column="30" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Python_High_Level_Syntax/多线程threading/28_1.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="339">
+              <caret line="28" column="10" lean-forward="true" selection-start-line="28" selection-start-column="10" selection-end-line="28" selection-end-column="10" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Python_High_Level_Syntax/多线程threading/28_5.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="252">
+              <caret line="34" column="26" lean-forward="true" selection-start-line="34" selection-start-column="26" selection-end-line="34" selection-end-column="26" />
+              <folding>
+                <element signature="e#19#30#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Python_High_Level_Syntax/多线程threading/28_6.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="308">
+              <caret line="34" column="13" lean-forward="true" selection-start-line="34" selection-start-column="13" selection-end-line="34" selection-end-column="13" />
+              <folding>
+                <element signature="e#32#43#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -212,12 +280,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/Spider/2. 网络爬虫_数据解析提取/67_12.html" />
-        <option value="$PROJECT_DIR$/Spider/2. 网络爬虫_数据解析提取/67_14.py" />
-        <option value="$PROJECT_DIR$/Spider/2. 网络爬虫_数据解析提取/67_15.py" />
-        <option value="$PROJECT_DIR$/Spider/2. 网络爬虫_数据解析提取/67_16.py" />
-        <option value="$PROJECT_DIR$/Spider/2. 网络爬虫_数据解析提取/67_17.py" />
-        <option value="$PROJECT_DIR$/Spider/2. 网络爬虫_数据解析提取/67_18.py" />
         <option value="$PROJECT_DIR$/Spider/2. 网络爬虫_数据解析提取/67_19.py" />
         <option value="$PROJECT_DIR$/Spider/2. 网络爬虫_数据解析提取/67_20.py" />
         <option value="$PROJECT_DIR$/Spider/2. 网络爬虫_数据解析提取/67_22.py" />
@@ -254,7 +316,6 @@
         <option value="$PROJECT_DIR$/Spider/ScrapyProject-master/meizitulx/meizitulx/spiders/meizituSpider.py" />
         <option value="$PROJECT_DIR$/Spider111/ImageSpider/ImageSpider/settings.py" />
         <option value="$PROJECT_DIR$/Spider/mingyan2/mingyan2/spiders/NextSpider.py" />
-        <option value="$PROJECT_DIR$/Spider/4. Scrapy/82. Scrapy.md" />
         <option value="$PROJECT_DIR$/Spider/mingyan2/mingyan2/spiders/TagSpider.py" />
         <option value="$PROJECT_DIR$/Spider111/ImageSpider/ImageSpider/spiders/ImgsRename.py" />
         <option value="$PROJECT_DIR$/Spider111/ImageSpider/ImageSpider/items.py" />
@@ -263,6 +324,13 @@
         <option value="$PROJECT_DIR$/Spider/ScrapyProject-master/ImageSpider/ImageSpider/items.py" />
         <option value="$PROJECT_DIR$/Spider/ScrapyProject-master/ImageSpider/ImageSpider/pipelines.py" />
         <option value="$PROJECT_DIR$/Spider/ScrapyProject-master/ImageSpider/ImageSpider/spiders/ImgSpider.py" />
+        <option value="$PROJECT_DIR$/Spider/4. Scrapy/82. Scrapy.md" />
+        <option value="$PROJECT_DIR$/Python_High_Level_Syntax/多线程threading/28_6.py" />
+        <option value="$PROJECT_DIR$/Python_High_Level_Syntax/多线程threading/28_7.py" />
+        <option value="$PROJECT_DIR$/Python_High_Level_Syntax/多线程threading/28_8.py" />
+        <option value="$PROJECT_DIR$/Python_High_Level_Syntax/多线程threading/28. Python高级语法-多线程.md" />
+        <option value="$PROJECT_DIR$/Python_High_Level_Syntax/多线程threading/28_10_1.py" />
+        <option value="$PROJECT_DIR$/Python_High_Level_Syntax/多线程threading/28_10.py" />
       </list>
     </option>
   </component>
@@ -280,7 +348,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -291,42 +358,19 @@
             <path>
               <item name="TLXY_study_note" type="b2602c69:ProjectViewProjectNode" />
               <item name="TLXY_study_note" type="462c0819:PsiDirectoryNode" />
-              <item name="Spider" type="462c0819:PsiDirectoryNode" />
+              <item name="Python_High_Level_Syntax" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="TLXY_study_note" type="b2602c69:ProjectViewProjectNode" />
               <item name="TLXY_study_note" type="462c0819:PsiDirectoryNode" />
-              <item name="Spider" type="462c0819:PsiDirectoryNode" />
-              <item name="ScrapyProject-master" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="TLXY_study_note" type="b2602c69:ProjectViewProjectNode" />
-              <item name="TLXY_study_note" type="462c0819:PsiDirectoryNode" />
-              <item name="Spider" type="462c0819:PsiDirectoryNode" />
-              <item name="ScrapyProject-master" type="462c0819:PsiDirectoryNode" />
-              <item name="ImageSpider" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="TLXY_study_note" type="b2602c69:ProjectViewProjectNode" />
-              <item name="TLXY_study_note" type="462c0819:PsiDirectoryNode" />
-              <item name="Spider" type="462c0819:PsiDirectoryNode" />
-              <item name="ScrapyProject-master" type="462c0819:PsiDirectoryNode" />
-              <item name="ImageSpider" type="462c0819:PsiDirectoryNode" />
-              <item name="ImageSpider" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="TLXY_study_note" type="b2602c69:ProjectViewProjectNode" />
-              <item name="TLXY_study_note" type="462c0819:PsiDirectoryNode" />
-              <item name="Spider" type="462c0819:PsiDirectoryNode" />
-              <item name="ScrapyProject-master" type="462c0819:PsiDirectoryNode" />
-              <item name="ImageSpider" type="462c0819:PsiDirectoryNode" />
-              <item name="ImageSpider" type="462c0819:PsiDirectoryNode" />
-              <item name="spiders" type="462c0819:PsiDirectoryNode" />
+              <item name="Python_High_Level_Syntax" type="462c0819:PsiDirectoryNode" />
+              <item name="多线程threading" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -366,7 +410,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.ImgSpider">
+  <component name="RunManager" selected="Python.28_10">
     <configuration name="TLXY_study_note" type="JupiterNotebook" factoryName="Jupyter Notebook">
       <module name="TLXY_study_note" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -383,28 +427,6 @@
       <option name="additionalOptions" value="" />
       <option name="ipnbHost" value="127.0.0.1" />
       <option name="ipnbPort" value="8888" />
-      <method v="2" />
-    </configuration>
-    <configuration name="111" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="TLXY_study_note" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Spider/ScrapyProject-master/meizitu111" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Spider/ScrapyProject-master/meizitu111/111.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
     <configuration name="13_3" type="PythonConfigurationType" factoryName="Python">
@@ -429,7 +451,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="ImgSpider" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="28_10" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="TLXY_study_note" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -437,12 +459,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Spider/ScrapyProject-master/ImageSpider/ImageSpider/spiders" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Python_High_Level_Syntax/多线程threading" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Spider/ScrapyProject-master/ImageSpider/ImageSpider/spiders/ImgSpider.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Python_High_Level_Syntax/多线程threading/28_10.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -451,7 +473,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="meizitu" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="28_6" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="TLXY_study_note" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -459,12 +481,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Spider/ScrapyProject-master/meizitu111" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Python_High_Level_Syntax/多线程threading" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Spider/ScrapyProject-master/meizitu111/meizitu.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Python_High_Level_Syntax/多线程threading/28_6.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -473,7 +495,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="meizituSpider" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="28_7" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="TLXY_study_note" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -481,12 +503,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Spider/ScrapyProject-master/meizitulx/meizitulx/spiders" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Python_High_Level_Syntax/多线程threading" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Spider/ScrapyProject-master/meizitulx/meizitulx/spiders/meizituSpider.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Python_High_Level_Syntax/多线程threading/28_7.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -495,7 +517,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="settings" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="28_8" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="TLXY_study_note" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -503,12 +525,34 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Spider/ScrapyProject-master/meizitulx/meizitulx" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Python_High_Level_Syntax/多线程threading" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Spider/ScrapyProject-master/meizitulx/meizitulx/settings.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Python_High_Level_Syntax/多线程threading/28_8.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="28_9" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="TLXY_study_note" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Python_High_Level_Syntax/多线程threading" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Python_High_Level_Syntax/多线程threading/28_9.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -519,11 +563,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.ImgSpider" />
-        <item itemvalue="Python.meizituSpider" />
-        <item itemvalue="Python.settings" />
-        <item itemvalue="Python.meizitu" />
-        <item itemvalue="Python.111" />
+        <item itemvalue="Python.28_10" />
+        <item itemvalue="Python.28_9" />
+        <item itemvalue="Python.28_8" />
+        <item itemvalue="Python.28_7" />
+        <item itemvalue="Python.28_6" />
       </list>
     </recent_temporary>
   </component>
@@ -612,7 +656,10 @@
       <workItem from="1548898668022" duration="5614000" />
       <workItem from="1548921929718" duration="5092000" />
       <workItem from="1550201588773" duration="137000" />
-      <workItem from="1550308288063" duration="3688000" />
+      <workItem from="1550308288063" duration="4704000" />
+      <workItem from="1550495357797" duration="1855000" />
+      <workItem from="1550652301357" duration="1626000" />
+      <workItem from="1550668998317" duration="2602000" />
     </task>
     <task id="LOCAL-00001" summary="commit">
       <created>1546664003070</created>
@@ -817,11 +864,18 @@
       <option name="project" value="LOCAL" />
       <updated>1548753667522</updated>
     </task>
-    <option name="localTasksCounter" value="30" />
+    <task id="LOCAL-00030" summary="daily commit">
+      <created>1550313439912</created>
+      <option name="number" value="00030" />
+      <option name="presentableId" value="LOCAL-00030" />
+      <option name="project" value="LOCAL" />
+      <updated>1550313439913</updated>
+    </task>
+    <option name="localTasksCounter" value="31" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="411571000" />
+    <option name="totallyTimeSpent" value="418670000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -838,11 +892,11 @@
     <layout>
       <window_info id="Structure" order="0" sideWeight="0.35855857" side_tool="true" weight="0.4065934" />
       <window_info id="Favorites" order="1" sideWeight="0.36589697" side_tool="true" weight="0.15036379" />
-      <window_info active="true" content_ui="combo" id="Project" order="2" sideWeight="0.634103" visible="true" weight="0.23201293" />
+      <window_info active="true" content_ui="combo" id="Project" order="2" sideWeight="0.634103" visible="true" weight="0.21180275" />
       <window_info anchor="bottom" id="Concurrent Activities Diagram" order="0" weight="0.3285968" />
       <window_info anchor="bottom" id="Message" order="1" />
       <window_info anchor="bottom" id="Find" order="2" weight="0.3268206" />
-      <window_info anchor="bottom" id="Run" order="3" sideWeight="0.4995958" weight="0.339254" />
+      <window_info anchor="bottom" id="Run" order="3" sideWeight="0.4995958" visible="true" weight="0.28774422" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="Debug" order="6" weight="0.24689165" />
@@ -930,48 +984,6 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/Spider/AoiSolas/AoiSolas/spiders/__init__.py" />
-    <entry file="file://$PROJECT_DIR$/Spider/AoiSolas/AoiSolas/spiders/AoiSolaSpider.py" />
-    <entry file="file://$PROJECT_DIR$/Spider/ImgSpiderMM/ImgSpider/spiders/__init__.py" />
-    <entry file="file://$PROJECT_DIR$/Spider/ImgSpiderMM/ImgSpider/items.py" />
-    <entry file="file://$PROJECT_DIR$/Spider/ImgSpiderMM/ImgSpider/middlewares.py" />
-    <entry file="file://$PROJECT_DIR$/Spider/ImgSpiderMM/ImgSpider/pipelines.py" />
-    <entry file="file://$PROJECT_DIR$/Spider/ImgSpiderMM/ImgSpider/settings.py" />
-    <entry file="file://$PROJECT_DIR$/Spider/ImgSpiderMM/ImgSpider/spiders/ImgSpider.py" />
-    <entry file="file://$PROJECT_DIR$/Spider/ScrapyProject-master/AoiSolas/AoiSolas/middlewares.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-361" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Spider/ScrapyProject-master/AoiSolas/AoiSolas/pipelines.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-1065" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Spider/ScrapyProject-master/AoiSolas/AoiSolas/items.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-266" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Spider/ScrapyProject-master/AoiSolas/AoiSolas/settings.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="270">
-          <caret line="62" column="1" lean-forward="true" selection-start-line="62" selection-start-column="1" selection-end-line="62" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Spider/ScrapyProject-master/AoiSolas/AoiSolas/spiders/AoiSolaSpider.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="138">
-          <caret line="21" column="14" selection-start-line="21" selection-start-column="14" selection-end-line="21" selection-end-column="14" />
-          <folding>
-            <element signature="e#306#319#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Spider/ScrapyProject-master/meizitulx/meizitulx/spiders/meizituSpider.py" />
-    <entry file="file://$PROJECT_DIR$/Spider/ScrapyProject-master/meizitulx/meizitulx/settings.py" />
     <entry file="file://$PROJECT_DIR$/Spider/ScrapyProject-master/meizitulx/meizitulx/items.py" />
     <entry file="file://$PROJECT_DIR$/Spider/图像识别测试.png">
       <provider selected="true" editor-type-id="images" />
@@ -1008,20 +1020,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Spider/mingyan2/mingyan2/spiders/ItemSpider.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-22">
-          <caret line="4" selection-start-line="4" selection-end-line="4" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Spider/mingyan2/mingyan2/spiders/ListSpider.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-154">
-          <caret line="8" column="11" selection-start-line="8" selection-start-column="11" selection-end-line="8" selection-end-column="11" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Spider/mingyan2/mingyan2/spiders/NextSpider.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="110">
@@ -1030,12 +1028,6 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Spider/mingyan2/爬虫10.png">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Spider/mingyan2/爬虫8.png">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Spider/mingyan2/爬虫7.png">
       <provider selected="true" editor-type-id="images" />
     </entry>
     <entry file="file://$PROJECT_DIR$/Spider/mingyan2/爬虫6.png">
@@ -1050,28 +1042,11 @@
     <entry file="file://$PROJECT_DIR$/Spider/mingyan2/爬虫3.png">
       <provider selected="true" editor-type-id="images" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/Spider/mingyan2/mingyan2/spiders/TagSpider.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="242">
-          <caret line="16" column="37" lean-forward="true" selection-start-line="16" selection-start-column="37" selection-end-line="16" selection-end-column="37" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Spider111/ImageSpider/ImageSpider/spiders/ImgsRename.py" />
     <entry file="file://$PROJECT_DIR$/Spider111/ImageSpider/ImageSpider/items.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="330">
           <caret line="15" column="28" lean-forward="true" selection-start-line="15" selection-start-column="28" selection-end-line="15" selection-end-column="28" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Spider/4. Scrapy/82. Scrapy.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="FIRST">
-          <first_editor relative-caret-position="6094">
-            <caret line="277" column="47" selection-start-line="277" selection-start-column="45" selection-end-line="277" selection-end-column="55" />
-          </first_editor>
-          <second_editor />
         </state>
       </provider>
     </entry>
@@ -1156,11 +1131,169 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Spider/ScrapyProject-master/ImageSpider/ImageSpider/spiders/ImgSpider.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-15">
+        <state relative-caret-position="352">
           <caret line="17" column="29" selection-start-line="17" selection-start-column="29" selection-end-line="17" selection-end-column="29" />
           <folding>
             <element signature="e#95#108#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Spider/4. Scrapy/82. Scrapy.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="FIRST">
+          <first_editor relative-caret-position="6600">
+            <caret line="300" column="19" selection-start-line="300" selection-start-column="19" selection-end-line="300" selection-end-column="19" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Spider/mingyan2/mingyan2/spiders/ListSpider.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="176">
+          <caret line="8" column="11" selection-start-line="8" selection-start-column="11" selection-end-line="8" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Spider/mingyan2/爬虫7.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Spider/mingyan2/爬虫8.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Spider/mingyan2/爬虫9.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Spider/mingyan2/mingyan2/spiders/TagSpider.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="352">
+          <caret line="16" column="37" selection-start-line="16" selection-start-column="37" selection-end-line="16" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Python_High_Level_Syntax/多线程threading/28_2.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-264">
+          <caret line="8" column="7" lean-forward="true" selection-start-line="8" selection-start-column="7" selection-end-line="8" selection-end-column="7" />
+          <folding>
+            <element signature="e#41#52#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Spider/mingyan2/mingyan2/spiders/ItemSpider.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="22">
+          <caret line="4" selection-start-line="4" selection-end-line="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Python_High_Level_Syntax/多线程threading/28_3.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="308">
+          <caret line="34" column="10" lean-forward="true" selection-start-line="34" selection-start-column="10" selection-end-line="34" selection-end-column="10" />
+          <folding>
+            <element signature="e#71#82#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Python_High_Level_Syntax/多线程threading/28_4.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="22">
+          <caret line="31" lean-forward="true" selection-start-line="31" selection-end-line="31" />
+          <folding>
+            <element signature="e#75#86#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Python_High_Level_Syntax/多线程threading/28_12.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-550" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Python_High_Level_Syntax/多线程threading/28_1.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="339">
+          <caret line="28" column="10" lean-forward="true" selection-start-line="28" selection-start-column="10" selection-end-line="28" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Python_High_Level_Syntax/多线程threading/28_5.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="252">
+          <caret line="34" column="26" lean-forward="true" selection-start-line="34" selection-start-column="26" selection-end-line="34" selection-end-column="26" />
+          <folding>
+            <element signature="e#19#30#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Python_High_Level_Syntax/多线程threading/28_6.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="308">
+          <caret line="34" column="13" lean-forward="true" selection-start-line="34" selection-start-column="13" selection-end-line="34" selection-end-column="13" />
+          <folding>
+            <element signature="e#32#43#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Python_High_Level_Syntax/多线程threading/28_7.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="242">
+          <caret line="16" column="13" lean-forward="true" selection-start-line="16" selection-start-column="13" selection-end-line="16" selection-end-column="13" />
+          <folding>
+            <element signature="e#11#22#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Python_High_Level_Syntax/多线程threading/28_8.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="286">
+          <caret line="18" column="30" selection-start-line="18" selection-start-column="30" selection-end-line="18" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Python_High_Level_Syntax/多线程threading/28_9.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="20" column="34" lean-forward="true" selection-start-line="20" selection-start-column="34" selection-end-line="20" selection-end-column="34" />
+          <folding>
+            <element signature="e#12#23#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Python_High_Level_Syntax/多线程threading/28. Python高级语法-多线程.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="FIRST">
+          <first_editor relative-caret-position="88">
+            <caret line="71" column="11" lean-forward="true" selection-start-line="71" selection-start-column="11" selection-end-line="71" selection-end-column="11" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Python_High_Level_Syntax/多线程threading/28_11.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-440" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Python_High_Level_Syntax/多线程threading/28_10_1.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="131">
+          <caret line="25" selection-start-line="25" selection-end-line="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Python_High_Level_Syntax/多线程threading/28_10.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="286">
+          <caret line="28" column="25" selection-start-line="28" selection-start-column="25" selection-end-line="28" selection-end-column="25" />
         </state>
       </provider>
     </entry>

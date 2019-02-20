@@ -24,9 +24,7 @@ if __name__ == '__main__':
     myMinu()
     print(sum)
 
-'''
 # 改写为多线程执行
-# 参考28_10_1的运行结果，和该代码结果对比
 if __name__ == '__main__':
     print("Starting...{0}".format(sum))
 
@@ -43,7 +41,7 @@ if __name__ == '__main__':
     # 加减同时执行，最后发现每次的运行结果都不同
     # 多线程共享变量出现测冲突问题
     print("Done...{0}".format(sum))
-'''
+
 
 
 
