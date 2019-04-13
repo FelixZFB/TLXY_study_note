@@ -16,7 +16,7 @@ headers = {
 
 rsp = requests.get(url, params=kw, headers=headers)
 
-print(rsp.text)
+# print(rsp.text)
 print(rsp.content)
 print(rsp.url)
 print(rsp.encoding)

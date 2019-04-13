@@ -5,7 +5,7 @@
 import threading
 
 sum = 0
-loopSum = 1000000
+loopSum = 10000000
 
 lock = threading.Lock()
 

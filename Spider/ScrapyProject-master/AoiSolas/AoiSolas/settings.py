@@ -86,7 +86,7 @@ DOWNLOAD_DELAY = 0
 #CONCURRENT_REQUESTS_PER_IP = 16
 # LOG_LEVEL= 'DEBUG'
 #
-# LOG_FILE ='log.txt'
+# LOG_FILE ='log-日志记录.txt'
 # Disable cookies (enabled by default)
 #COOKIES_ENABLED = False
 

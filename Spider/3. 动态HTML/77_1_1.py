@@ -1,4 +1,4 @@
-# 通过WebDriver操作进行查找
+# 通过WebDriver操作进行查找，输出页面
 
 from selenium import webdriver
 from selenium.webdriver.firefox.options import Options

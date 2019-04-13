@@ -3,7 +3,7 @@
 import threading
 
 sum = 0
-loopSum = 100
+loopSum = 1000000
 
 def myAdd():
     global sum, loopSum
@@ -24,11 +24,14 @@ if __name__ == '__main__':
     myMinu()
     print(sum)
 
+
 # 改写为多线程执行
 if __name__ == '__main__':
     print("Starting...{0}".format(sum))
 
-    # 开始多线程实例，看看执行结果是否一样
+    # 开始多线程实例，多次执行，看看执行结果是否一样
+    # 由于t1和t2同时开始，互相调用他们之间的运行结果sum值，
+    # 最终完成后的sum值就会一直变化
     t1 = threading.Thread(target=myAdd, args=())
     t2 = threading.Thread(target=myMinu, args=())
 
