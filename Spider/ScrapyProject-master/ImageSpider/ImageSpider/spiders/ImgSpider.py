@@ -1,6 +1,8 @@
 # -*- coding: utf-8 -*-
-# 运行方式：进入ImageSpider目录（scrapy.cfg所在目录)输入：
+# 运行方式：CMD命令进入ImageSpider目录（scrapy.cfg所在同级目录)输入：
 # scrapy crawl ImgSpider111
+# 下载妹子图，自拍栏目下所有的图片
+# 网址规律就是页码不同
 
 import scrapy
 from ImageSpider.items import ImagespiderItem
@@ -14,7 +16,7 @@ class ImgspiderSpider(scrapy.Spider):
     allowed_domains = ['https://www.mzitu.com']
     # 开始爬取的网站
     start_urls = []
-    # 生成一个网站列表，爬取第1页到第10页
+    # 生成一个网站列表，爬取第300页到第376页，最近更新的图片，页码可以自定义
     for i in range(300, 376):
         url = "https://www.mzitu.com/zipai/comment-page-" + str(i) + "/#comments"
         start_urls.append(url)
